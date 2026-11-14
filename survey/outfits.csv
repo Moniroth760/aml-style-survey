@@ -1,0 +1,91 @@
+survey_id,outfit_key,section,style,group,score,items,image
+M-old_money-001,T01+B01+S01,men,old money,top_pick,7.0,navy Classic Cotton Polo + beige Slim Fit Chinos + brown Classic Penny Loafers,images/T01+B01+S01.png
+M-old_money-002,T01+B01+S02,men,old money,top_pick,7.0,navy Classic Cotton Polo + beige Slim Fit Chinos + white Minimal Leather Look Sneakers,images/T01+B01+S02.png
+M-old_money-003,T01+B06+S02,men,old money,top_pick,7.0,navy Classic Cotton Polo + grey Relaxed Pleated Trousers + white Minimal Leather Look Sneakers,images/T01+B06+S02.png
+M-old_money-004,T03+B01+S12,men,old money,top_pick,7.0,light blue Oxford Button Shirt + beige Slim Fit Chinos + navy Retro Lace Up Sneakers,images/T03+B01+S12.png
+M-old_money-005,T03+B06+S12,men,old money,top_pick,7.0,light blue Oxford Button Shirt + grey Relaxed Pleated Trousers + navy Retro Lace Up Sneakers,images/T03+B06+S12.png
+M-old_money-006,T05+B03+S01,men,old money,top_pick,7.0,cream Fine Gauge Knit Sweater + navy Tailored Cotton Trousers + brown Classic Penny Loafers,images/T05+B03+S01.png
+M-old_money-007,T08+B03+S01,men,old money,top_pick,7.0,beige Textured Knit Polo + navy Tailored Cotton Trousers + brown Classic Penny Loafers,images/T08+B03+S01.png
+M-old_money-008,T09+B06+O04+S11,men,old money,explore,2.5,brown Minimal Crewneck Sweater + grey Relaxed Pleated Trousers + brown Textured Knit Cardigan + cream Minimal Everyday Sneakers,images/T09+B06+O04+S11.png
+M-old_money-009,T08+B13+O01+S12,men,old money,explore,3.0,beige Textured Knit Polo + black Relaxed Straight Trousers + navy Classic Single Breasted Blazer + navy Retro Lace Up Sneakers,images/T08+B13+O01+S12.png
+M-old_money-010,T03+B03+O04+S02,men,old money,explore,4.0,light blue Oxford Button Shirt + navy Tailored Cotton Trousers + brown Textured Knit Cardigan + white Minimal Leather Look Sneakers,images/T03+B03+O04+S02.png
+M-streetwear-011,T02+B02+S03,men,streetwear,top_pick,7.0,white Relaxed Cotton Tee + blue Relaxed Straight Jeans + grey Chunky Everyday Sneakers,images/T02+B02+S03.png
+M-streetwear-012,T02+B02+O03+S03,men,streetwear,top_pick,7.0,white Relaxed Cotton Tee + blue Relaxed Straight Jeans + black Lightweight Bomber Jacket + grey Chunky Everyday Sneakers,images/T02+B02+O03+S03.png
+M-streetwear-013,T02+B02+S04,men,streetwear,top_pick,7.0,white Relaxed Cotton Tee + blue Relaxed Straight Jeans + black Classic Lace Up Boots,images/T02+B02+S04.png
+M-streetwear-014,T04+B04+S09,men,streetwear,top_pick,7.0,black Boxy Graphic Tee + khaki Utility Cargo Pants + white Classic Canvas Sneakers,images/T04+B04+S09.png
+M-streetwear-015,T04+B05+S03,men,streetwear,top_pick,7.0,black Boxy Graphic Tee + blue Classic Denim Shorts + grey Chunky Everyday Sneakers,images/T04+B05+S03.png
+M-streetwear-016,T04+B05+S09,men,streetwear,top_pick,7.0,black Boxy Graphic Tee + blue Classic Denim Shorts + white Classic Canvas Sneakers,images/T04+B05+S09.png
+M-streetwear-017,T06+B05+S04,men,streetwear,top_pick,7.0,grey Relaxed Flannel Shirt + blue Classic Denim Shorts + black Classic Lace Up Boots,images/T06+B05+S04.png
+M-streetwear-018,T18+B13+O09+S04,men,streetwear,explore,4.5,grey Relaxed Cotton Hoodie + black Relaxed Straight Trousers + grey Essential Zip Hoodie + black Classic Lace Up Boots,images/T18+B13+O09+S04.png
+M-streetwear-019,T17+B13+O10+S12,men,streetwear,explore,4.0,white Essential Oversized Tee + black Relaxed Straight Trousers + olive Relaxed Utility Jacket + navy Retro Lace Up Sneakers,images/T17+B13+O10+S12.png
+M-streetwear-020,T07+B13+O03+S09,men,streetwear,explore,5.0,olive Long Sleeve Cotton Tee + black Relaxed Straight Trousers + black Lightweight Bomber Jacket + white Classic Canvas Sneakers,images/T07+B13+O03+S09.png
+M-casual-021,T01+B01+S02,men,casual,top_pick,7.0,navy Classic Cotton Polo + beige Slim Fit Chinos + white Minimal Leather Look Sneakers,images/T01+B01+S02.png
+M-casual-022,T01+B01+S09,men,casual,top_pick,7.0,navy Classic Cotton Polo + beige Slim Fit Chinos + white Classic Canvas Sneakers,images/T01+B01+S09.png
+M-casual-023,T01+B14+S02,men,casual,top_pick,7.0,navy Classic Cotton Polo + grey Everyday Cotton Shorts + white Minimal Leather Look Sneakers,images/T01+B14+S02.png
+M-casual-024,T02+B01+S12,men,casual,top_pick,7.0,white Relaxed Cotton Tee + beige Slim Fit Chinos + navy Retro Lace Up Sneakers,images/T02+B01+S12.png
+M-casual-025,T02+B02+S03,men,casual,top_pick,7.0,white Relaxed Cotton Tee + blue Relaxed Straight Jeans + grey Chunky Everyday Sneakers,images/T02+B02+S03.png
+M-casual-026,T02+B02+O03+S03,men,casual,top_pick,7.0,white Relaxed Cotton Tee + blue Relaxed Straight Jeans + black Lightweight Bomber Jacket + grey Chunky Everyday Sneakers,images/T02+B02+O03+S03.png
+M-casual-027,T03+B03+S03,men,casual,top_pick,7.0,light blue Oxford Button Shirt + navy Tailored Cotton Trousers + grey Chunky Everyday Sneakers,images/T03+B03+S03.png
+M-casual-028,T04+B07+O10+S01,men,casual,explore,2.0,black Boxy Graphic Tee + Washed Black Jeans + olive Relaxed Utility Jacket + brown Classic Penny Loafers,images/T04+B07+O10+S01.png
+M-casual-029,T04+B13+S10,men,casual,explore,1.0,black Boxy Graphic Tee + black Relaxed Straight Trousers + black Chunky Platform Sneakers,images/T04+B13+S10.png
+M-casual-030,T05+B05+O03+S10,men,casual,explore,4.0,cream Fine Gauge Knit Sweater + blue Classic Denim Shorts + black Lightweight Bomber Jacket + black Chunky Platform Sneakers,images/T05+B05+O03+S10.png
+M-alternative-031,T02+B02+S04,men,alternative,top_pick,7.0,white Relaxed Cotton Tee + blue Relaxed Straight Jeans + black Classic Lace Up Boots,images/T02+B02+S04.png
+M-alternative-032,T02+B02+O09+S04,men,alternative,top_pick,7.0,white Relaxed Cotton Tee + blue Relaxed Straight Jeans + grey Essential Zip Hoodie + black Classic Lace Up Boots,images/T02+B02+O09+S04.png
+M-alternative-033,T02+B04+S04,men,alternative,top_pick,7.0,white Relaxed Cotton Tee + khaki Utility Cargo Pants + black Classic Lace Up Boots,images/T02+B04+S04.png
+M-alternative-034,T04+B02+S03,men,alternative,top_pick,7.0,black Boxy Graphic Tee + blue Relaxed Straight Jeans + grey Chunky Everyday Sneakers,images/T04+B02+S03.png
+M-alternative-035,T04+B05+S03,men,alternative,top_pick,7.0,black Boxy Graphic Tee + blue Classic Denim Shorts + grey Chunky Everyday Sneakers,images/T04+B05+S03.png
+M-alternative-036,T06+B05+S10,men,alternative,top_pick,7.0,grey Relaxed Flannel Shirt + blue Classic Denim Shorts + black Chunky Platform Sneakers,images/T06+B05+S10.png
+M-alternative-037,T04+B05+O03+S03,men,alternative,top_pick,6.0,black Boxy Graphic Tee + blue Classic Denim Shorts + black Lightweight Bomber Jacket + grey Chunky Everyday Sneakers,images/T04+B05+O03+S03.png
+M-alternative-038,T20+B13+O03+S12,men,alternative,explore,0.0,black Heavyweight Long Sleeve Tee + black Relaxed Straight Trousers + black Lightweight Bomber Jacket + navy Retro Lace Up Sneakers,images/T20+B13+O03+S12.png
+M-alternative-039,T07+B13+O10+S12,men,alternative,explore,1.5,olive Long Sleeve Cotton Tee + black Relaxed Straight Trousers + olive Relaxed Utility Jacket + navy Retro Lace Up Sneakers,images/T07+B13+O10+S12.png
+M-alternative-040,T06+B04+O03+S12,men,alternative,explore,4.0,grey Relaxed Flannel Shirt + khaki Utility Cargo Pants + black Lightweight Bomber Jacket + navy Retro Lace Up Sneakers,images/T06+B04+O03+S12.png
+W-old_money-041,T11+B09+S12,women,old money,top_pick,7.0,white Relaxed Cotton Blouse + beige Wide Leg Tailored Trousers + navy Retro Lace Up Sneakers,images/T11+B09+S12.png
+W-old_money-042,D04+S05,women,old money,top_pick,7.0,navy Structured Shirt Dress + beige Minimal Ballet Flats,images/D04+S05.png
+W-old_money-043,D04+S11,women,old money,top_pick,7.0,navy Structured Shirt Dress + cream Minimal Everyday Sneakers,images/D04+S11.png
+W-old_money-044,T11+B09+O05+S12,women,old money,top_pick,5.5,white Relaxed Cotton Blouse + beige Wide Leg Tailored Trousers + beige Tailored Everyday Blazer + navy Retro Lace Up Sneakers,images/T11+B09+O05+S12.png
+W-old_money-045,T10+B09+S12,women,old money,top_pick,5.0,cream Soft Ribbed Top + beige Wide Leg Tailored Trousers + navy Retro Lace Up Sneakers,images/T10+B09+S12.png
+W-old_money-046,T11+B10+S05,women,old money,top_pick,5.0,white Relaxed Cotton Blouse + black Classic A Line Skirt + beige Minimal Ballet Flats,images/T11+B10+S05.png
+W-old_money-047,T15+B10+S06,women,old money,top_pick,5.0,blue Classic Striped Shirt + black Classic A Line Skirt + black Classic Penny Loafers,images/T15+B10+S06.png
+W-old_money-048,T10+B12+O05+S05,women,old money,explore,0.5,cream Soft Ribbed Top + cream Soft Pleated Skirt + beige Tailored Everyday Blazer + beige Minimal Ballet Flats,images/T10+B12+O05+S05.png
+W-old_money-049,D04+S08,women,old money,explore,1.0,navy Structured Shirt Dress + black Everyday Ankle Boots,images/D04+S08.png
+W-old_money-050,T19+B12+O08+S11,women,old money,explore,2.0,beige Minimal Crewneck Tee + cream Soft Pleated Skirt + lavender Soft Knit Cardigan + cream Minimal Everyday Sneakers,images/T19+B12+O08+S11.png
+W-streetwear-051,T12+B14+S07,women,streetwear,top_pick,7.0,black Cropped Basic Tee + grey Everyday Cotton Shorts + white Low Profile Sneakers,images/T12+B14+S07.png
+W-streetwear-052,T12+B14+S09,women,streetwear,top_pick,7.0,black Cropped Basic Tee + grey Everyday Cotton Shorts + white Classic Canvas Sneakers,images/T12+B14+S09.png
+W-streetwear-053,T14+B08+S12,women,streetwear,top_pick,7.0,grey Oversized Graphic Tee + light blue High Waist Straight Jeans + navy Retro Lace Up Sneakers,images/T14+B08+S12.png
+W-streetwear-054,T14+B13+S07,women,streetwear,top_pick,7.0,grey Oversized Graphic Tee + black Relaxed Straight Trousers + white Low Profile Sneakers,images/T14+B13+S07.png
+W-streetwear-055,T14+B13+S09,women,streetwear,top_pick,7.0,grey Oversized Graphic Tee + black Relaxed Straight Trousers + white Classic Canvas Sneakers,images/T14+B13+S09.png
+W-streetwear-056,T16+B14+S07,women,streetwear,top_pick,7.0,black Fitted Long Sleeve Top + grey Everyday Cotton Shorts + white Low Profile Sneakers,images/T16+B14+S07.png
+W-streetwear-057,T18+B08+S12,women,streetwear,top_pick,7.0,grey Relaxed Cotton Hoodie + light blue High Waist Straight Jeans + navy Retro Lace Up Sneakers,images/T18+B08+S12.png
+W-streetwear-058,T16+B13+O07+S09,women,streetwear,explore,4.0,black Fitted Long Sleeve Top + black Relaxed Straight Trousers + black Relaxed Faux Leather Jacket + white Classic Canvas Sneakers,images/T16+B13+O07+S09.png
+W-streetwear-059,T20+B11+O10+S10,women,streetwear,explore,4.5,black Heavyweight Long Sleeve Tee + olive Relaxed Cargo Pants + olive Relaxed Utility Jacket + black Chunky Platform Sneakers,images/T20+B11+O10+S10.png
+W-streetwear-060,T16+B08+O06+S10,women,streetwear,explore,0.5,black Fitted Long Sleeve Top + light blue High Waist Straight Jeans + light blue Cropped Denim Jacket + black Chunky Platform Sneakers,images/T16+B08+O06+S10.png
+W-soft-061,D03+S07,women,soft,top_pick,7.0,pink Floral Summer Dress + white Low Profile Sneakers,images/D03+S07.png
+W-soft-062,D03+S09,women,soft,top_pick,7.0,pink Floral Summer Dress + white Classic Canvas Sneakers,images/D03+S09.png
+W-soft-063,D03+S11,women,soft,top_pick,7.0,pink Floral Summer Dress + cream Minimal Everyday Sneakers,images/D03+S11.png
+W-soft-064,T11+B14+S06,women,soft,top_pick,6.0,white Relaxed Cotton Blouse + grey Everyday Cotton Shorts + black Classic Penny Loafers,images/T11+B14+S06.png
+W-soft-065,T15+B10+S07,women,soft,top_pick,6.0,blue Classic Striped Shirt + black Classic A Line Skirt + white Low Profile Sneakers,images/T15+B10+S07.png
+W-soft-066,T15+B10+S09,women,soft,top_pick,6.0,blue Classic Striped Shirt + black Classic A Line Skirt + white Classic Canvas Sneakers,images/T15+B10+S09.png
+W-soft-067,T15+B14+S06,women,soft,top_pick,6.0,blue Classic Striped Shirt + grey Everyday Cotton Shorts + black Classic Penny Loafers,images/T15+B14+S06.png
+W-soft-068,T19+B08+O05+S09,women,soft,explore,3.5,beige Minimal Crewneck Tee + light blue High Waist Straight Jeans + beige Tailored Everyday Blazer + white Classic Canvas Sneakers,images/T19+B08+O05+S09.png
+W-soft-069,T19+B12+O08+S06,women,soft,explore,2.0,beige Minimal Crewneck Tee + cream Soft Pleated Skirt + lavender Soft Knit Cardigan + black Classic Penny Loafers,images/T19+B12+O08+S06.png
+W-soft-070,T18+B14+S07,women,soft,explore,3.0,grey Relaxed Cotton Hoodie + grey Everyday Cotton Shorts + white Low Profile Sneakers,images/T18+B14+S07.png
+W-casual-071,T11+B09+S12,women,casual,top_pick,7.0,white Relaxed Cotton Blouse + beige Wide Leg Tailored Trousers + navy Retro Lace Up Sneakers,images/T11+B09+S12.png
+W-casual-072,T11+B14+S10,women,casual,top_pick,7.0,white Relaxed Cotton Blouse + grey Everyday Cotton Shorts + black Chunky Platform Sneakers,images/T11+B14+S10.png
+W-casual-073,T11+B14+S12,women,casual,top_pick,7.0,white Relaxed Cotton Blouse + grey Everyday Cotton Shorts + navy Retro Lace Up Sneakers,images/T11+B14+S12.png
+W-casual-074,T12+B14+S07,women,casual,top_pick,7.0,black Cropped Basic Tee + grey Everyday Cotton Shorts + white Low Profile Sneakers,images/T12+B14+S07.png
+W-casual-075,T14+B08+S12,women,casual,top_pick,7.0,grey Oversized Graphic Tee + light blue High Waist Straight Jeans + navy Retro Lace Up Sneakers,images/T14+B08+S12.png
+W-casual-076,T14+B13+S07,women,casual,top_pick,7.0,grey Oversized Graphic Tee + black Relaxed Straight Trousers + white Low Profile Sneakers,images/T14+B13+S07.png
+W-casual-077,T14+B13+S09,women,casual,top_pick,7.0,grey Oversized Graphic Tee + black Relaxed Straight Trousers + white Classic Canvas Sneakers,images/T14+B13+S09.png
+W-casual-078,T10+B12+O05+S10,women,casual,explore,0.5,cream Soft Ribbed Top + cream Soft Pleated Skirt + beige Tailored Everyday Blazer + black Chunky Platform Sneakers,images/T10+B12+O05+S10.png
+W-casual-079,T18+B08+O09+S11,women,casual,explore,2.5,grey Relaxed Cotton Hoodie + light blue High Waist Straight Jeans + grey Essential Zip Hoodie + cream Minimal Everyday Sneakers,images/T18+B08+O09+S11.png
+W-casual-080,T13+B08+O10+S10,women,casual,explore,2.0,pink Lightweight Knit Cardigan Top + light blue High Waist Straight Jeans + olive Relaxed Utility Jacket + black Chunky Platform Sneakers,images/T13+B08+O10+S10.png
+W-alternative-081,T17+B14+S08,women,alternative,top_pick,7.0,white Essential Oversized Tee + grey Everyday Cotton Shorts + black Everyday Ankle Boots,images/T17+B14+S08.png
+W-alternative-082,T17+B10+O09+S08,women,alternative,top_pick,6.0,white Essential Oversized Tee + black Classic A Line Skirt + grey Essential Zip Hoodie + black Everyday Ankle Boots,images/T17+B10+O09+S08.png
+W-alternative-083,T17+B13+O09+S08,women,alternative,top_pick,6.0,white Essential Oversized Tee + black Relaxed Straight Trousers + grey Essential Zip Hoodie + black Everyday Ankle Boots,images/T17+B13+O09+S08.png
+W-alternative-084,T14+B10+S06,women,alternative,top_pick,5.0,grey Oversized Graphic Tee + black Classic A Line Skirt + black Classic Penny Loafers,images/T14+B10+S06.png
+W-alternative-085,T14+B10+O10+S06,women,alternative,top_pick,5.0,grey Oversized Graphic Tee + black Classic A Line Skirt + olive Relaxed Utility Jacket + black Classic Penny Loafers,images/T14+B10+O10+S06.png
+W-alternative-086,T14+B11+S06,women,alternative,top_pick,5.0,grey Oversized Graphic Tee + olive Relaxed Cargo Pants + black Classic Penny Loafers,images/T14+B11+S06.png
+W-alternative-087,T12+B11+S10,women,alternative,top_pick,4.0,black Cropped Basic Tee + olive Relaxed Cargo Pants + black Chunky Platform Sneakers,images/T12+B11+S10.png
+W-alternative-088,T20+B14+O09+S10,women,alternative,explore,3.5,black Heavyweight Long Sleeve Tee + grey Everyday Cotton Shorts + grey Essential Zip Hoodie + black Chunky Platform Sneakers,images/T20+B14+O09+S10.png
+W-alternative-089,T20+B13+O10+S12,women,alternative,explore,2.0,black Heavyweight Long Sleeve Tee + black Relaxed Straight Trousers + olive Relaxed Utility Jacket + navy Retro Lace Up Sneakers,images/T20+B13+O10+S12.png
+W-alternative-090,T20+B11+O07+S10,women,alternative,explore,3.0,black Heavyweight Long Sleeve Tee + olive Relaxed Cargo Pants + black Relaxed Faux Leather Jacket + black Chunky Platform Sneakers,images/T20+B11+O07+S10.png

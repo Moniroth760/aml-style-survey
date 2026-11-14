@@ -1,0 +1,10 @@
+# Survey colour theme: warm beige background, charcoal text, AML Studio burgundy as the accent.
+[theme]
+base = "light"
+primaryColor = "#9E2B3A"
+backgroundColor = "#E8D4B6"
+secondaryBackgroundColor = "#F3E7D4"
+textColor = "#2B2627"
+
+[server]
+enableStaticServing = true
