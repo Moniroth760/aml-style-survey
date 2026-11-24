@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+data/orders.csv
+previews/
+static/hero.jpg
+survey/responses.csv
+survey/participants.csv
+survey/giveaway.csv
+survey/style_agreement.csv
+survey/style_reasons.csv
+# Passwords and keys - never upload
+.streamlit/secrets.toml
+*.json

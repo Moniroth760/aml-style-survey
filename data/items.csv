@@ -1,0 +1,61 @@
+item_id,name,section,slot,type,colour,pattern,styles,fit_note,price
+T01,Classic Cotton Polo,men,top,Polo,navy,plain,old money|casual,true_to_size,29.95
+T02,Relaxed Cotton Tee,men,top,T-Shirt,white,plain,streetwear|casual|alternative,true_to_size,19.95
+T03,Oxford Button Shirt,men,top,Shirt,light blue,plain,old money|casual,true_to_size,39.95
+T04,Boxy Graphic Tee,men,top,T-Shirt,black,graphic,streetwear|alternative|casual,runs_large,24.95
+T05,Fine Gauge Knit Sweater,men,top,Knitwear,cream,plain,old money|casual,true_to_size,44.95
+T06,Relaxed Flannel Shirt,men,top,Shirt,grey,checked,streetwear|alternative|casual,runs_large,34.95
+T07,Long Sleeve Cotton Tee,men,top,Longsleeve,olive,plain,casual|streetwear|alternative,true_to_size,24.95
+T08,Textured Knit Polo,men,top,Polo,beige,plain,old money|casual,true_to_size,34.95
+T09,Minimal Crewneck Sweater,men,top,Knitwear,brown,plain,old money|alternative,true_to_size,39.95
+T10,Soft Ribbed Top,women,top,Top,cream,plain,soft|casual|old money,true_to_size,24.95
+T11,Relaxed Cotton Blouse,women,top,Blouse,white,plain,old money|soft|casual,true_to_size,34.95
+T12,Cropped Basic Tee,women,top,T-Shirt,black,plain,streetwear|casual|alternative,true_to_size,19.95
+T13,Lightweight Knit Cardigan Top,women,top,Knitwear,pink,plain,soft|old money|casual,true_to_size,39.95
+T14,Oversized Graphic Tee,women,top,T-Shirt,grey,graphic,streetwear|alternative|casual,runs_large,24.95
+T15,Classic Striped Shirt,women,top,Shirt,blue,striped,old money|soft|casual,true_to_size,34.95
+T16,Fitted Long Sleeve Top,women,top,Longsleeve,black,plain,alternative|streetwear|soft,true_to_size,26.95
+T17,Essential Oversized Tee,unisex,top,T-Shirt,white,plain,streetwear|casual|alternative,runs_large,22.95
+T18,Relaxed Cotton Hoodie,unisex,top,Hoodie,grey,plain,streetwear|casual|soft,runs_large,44.95
+T19,Minimal Crewneck Tee,unisex,top,T-Shirt,beige,plain,old money|soft|casual,true_to_size,21.95
+T20,Heavyweight Long Sleeve Tee,unisex,top,Longsleeve,black,plain,streetwear|alternative|casual,true_to_size,29.95
+B01,Slim Fit Chinos,men,bottom,Chinos,beige,plain,old money|casual,true_to_size,44.95
+B02,Relaxed Straight Jeans,men,bottom,Jeans,blue,plain,streetwear|casual|alternative,true_to_size,49.95
+B03,Tailored Cotton Trousers,men,bottom,Trousers,navy,plain,old money|casual,true_to_size,54.95
+B04,Utility Cargo Pants,men,bottom,Cargo pants,khaki,plain,streetwear|alternative|casual,runs_large,49.95
+B05,Classic Denim Shorts,men,bottom,Shorts,blue,plain,casual|streetwear|alternative,true_to_size,34.95
+B06,Relaxed Pleated Trousers,men,bottom,Trousers,grey,plain,old money|alternative,true_to_size,49.95
+B07,Washed Black Jeans,men,bottom,Jeans,black,plain,alternative|streetwear|casual,true_to_size,49.95
+B08,High Waist Straight Jeans,women,bottom,Jeans,light blue,plain,casual|streetwear|soft,true_to_size,49.95
+B09,Wide Leg Tailored Trousers,women,bottom,Trousers,beige,plain,old money|soft|casual,true_to_size,54.95
+B10,Classic A Line Skirt,women,bottom,Skirt,black,plain,old money|soft|alternative,true_to_size,34.95
+B11,Relaxed Cargo Pants,women,bottom,Cargo pants,olive,plain,streetwear|alternative|casual,runs_large,44.95
+B12,Soft Pleated Skirt,women,bottom,Skirt,cream,plain,soft|old money|casual,true_to_size,39.95
+B13,Relaxed Straight Trousers,unisex,bottom,Trousers,black,plain,old money|streetwear|alternative|casual,true_to_size,49.95
+B14,Everyday Cotton Shorts,unisex,bottom,Shorts,grey,plain,streetwear|casual|soft|alternative,true_to_size,29.95
+D01,Minimal Midi Dress,women,full,Dress,black,plain,old money|soft|casual,true_to_size,49.95
+D02,Relaxed Cotton Dress,women,full,Dress,cream,plain,soft|casual,true_to_size,39.95
+D03,Floral Summer Dress,women,full,Dress,pink,floral,soft|casual,true_to_size,44.95
+D04,Structured Shirt Dress,women,full,Dress,navy,plain,old money|casual|alternative,true_to_size,54.95
+O01,Classic Single Breasted Blazer,men,outer,Blazer,navy,plain,old money,true_to_size,79.95
+O02,Relaxed Denim Jacket,men,outer,Jacket,blue,plain,streetwear|casual|alternative,true_to_size,59.95
+O03,Lightweight Bomber Jacket,men,outer,Jacket,black,plain,streetwear|alternative|casual,true_to_size,64.95
+O04,Textured Knit Cardigan,men,outer,Knitwear,brown,plain,old money|casual,true_to_size,49.95
+O05,Tailored Everyday Blazer,women,outer,Blazer,beige,plain,old money|soft|casual,true_to_size,74.95
+O06,Cropped Denim Jacket,women,outer,Jacket,light blue,plain,streetwear|casual|soft,true_to_size,54.95
+O07,Relaxed Faux Leather Jacket,women,outer,Jacket,black,plain,alternative|streetwear,true_to_size,69.95
+O08,Soft Knit Cardigan,women,outer,Knitwear,lavender,plain,soft|casual|old money,true_to_size,44.95
+O09,Essential Zip Hoodie,unisex,outer,Hoodie,grey,plain,streetwear|casual|alternative,runs_large,49.95
+O10,Relaxed Utility Jacket,unisex,outer,Jacket,olive,plain,streetwear|alternative|casual,true_to_size,59.95
+S01,Classic Penny Loafers,men,shoes,Loafers,brown,plain,old money|casual,true_to_size,59.95
+S02,Minimal Leather Look Sneakers,men,shoes,Sneakers,white,plain,old money|casual,true_to_size,49.95
+S03,Chunky Everyday Sneakers,men,shoes,Sneakers,grey,plain,streetwear|alternative|casual,true_to_size,54.95
+S04,Classic Lace Up Boots,men,shoes,Boots,black,plain,alternative|streetwear|old money,true_to_size,69.95
+S05,Minimal Ballet Flats,women,shoes,Flats,beige,plain,old money|soft|casual,true_to_size,39.95
+S06,Classic Penny Loafers,women,shoes,Loafers,black,plain,old money|alternative|soft,true_to_size,54.95
+S07,Low Profile Sneakers,women,shoes,Sneakers,white,plain,casual|streetwear|soft,true_to_size,44.95
+S08,Everyday Ankle Boots,women,shoes,Boots,black,plain,alternative|old money|casual,true_to_size,64.95
+S09,Classic Canvas Sneakers,unisex,shoes,Sneakers,white,plain,streetwear|casual|soft,true_to_size,39.95
+S10,Chunky Platform Sneakers,unisex,shoes,Sneakers,black,plain,streetwear|alternative|casual,true_to_size,59.95
+S11,Minimal Everyday Sneakers,unisex,shoes,Sneakers,cream,plain,old money|soft|casual,true_to_size,49.95
+S12,Retro Lace Up Sneakers,unisex,shoes,Sneakers,navy,plain,streetwear|alternative|old money|casual,true_to_size,54.95

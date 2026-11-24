@@ -1,0 +1,12 @@
+section,size,height_min,height_max,weight_min,weight_max
+men,XS,155,168,45,56
+men,S,165,173,52,63
+men,M,170,178,60,72
+men,L,175,183,70,83
+men,XL,180,188,80,95
+men,XXL,185,198,92,115
+women,XS,145,155,38,46
+women,S,152,160,44,53
+women,M,158,165,51,61
+women,L,163,170,59,70
+women,XL,168,178,68,82

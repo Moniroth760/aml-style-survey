@@ -1,0 +1,39 @@
+item_id,name,section,slot,type,colour,pattern,styles,fit_note,price
+T01,Piqué Polo Shirt,men,top,Polo,navy,plain,old money|casual,true_to_size,29.9
+T02,Piqué Polo Shirt,men,top,Polo,white,plain,old money|casual,true_to_size,29.9
+T03,Striped Knit Polo,men,top,Polo,cream,striped,old money,runs_small,49.9
+T04,Oxford Shirt,men,top,Shirt,light blue,plain,old money|casual,true_to_size,39.9
+T05,Linen Shirt,men,top,Shirt,white,plain,old money|casual,runs_large,39.9
+T06,Crew Neck Sweater,men,top,Knitwear,beige,plain,old money,true_to_size,49.9
+T07,Graphic Tee,men,top,T-Shirt,black,graphic,streetwear,true_to_size,19.9
+T08,Oversized Tee,unisex,top,T-Shirt,white,plain,streetwear|casual,runs_large,24.9
+T09,Sweat Hoodie,unisex,top,Hoodie,grey,plain,streetwear|casual,true_to_size,49.9
+T10,Flannel Shirt,men,top,Shirt,red,checked,alternative|casual,true_to_size,39.9
+T11,Crew Neck Tee,unisex,top,T-Shirt,olive,plain,casual|alternative,true_to_size,14.9
+T20,Ribbed Crop Top,women,top,Top,pink,plain,soft|streetwear,runs_small,19.9
+T21,Rayon Blouse,women,top,Blouse,cream,plain,soft|old money,true_to_size,39.9
+T22,Puff Sleeve Top,women,top,Top,lavender,plain,soft,true_to_size,29.9
+T23,Striped Long Sleeve Tee,women,top,Longsleeve,navy,striped,casual|alternative,true_to_size,24.9
+B01,Chino Pants,men,bottom,Chinos,beige,plain,old money|casual,true_to_size,49.9
+B02,Chino Pants,men,bottom,Chinos,navy,plain,old money|casual,true_to_size,49.9
+B03,Tailored Trousers,men,bottom,Trousers,grey,plain,old money,true_to_size,59.9
+B04,Straight Jeans,unisex,bottom,Jeans,blue,plain,casual|streetwear|alternative,true_to_size,59.9
+B05,Wide Cargo Pants,unisex,bottom,Cargo pants,khaki,plain,streetwear,runs_large,49.9
+B06,Black Jeans,unisex,bottom,Jeans,black,plain,streetwear|alternative,true_to_size,59.9
+B07,Chino Shorts,men,bottom,Shorts,khaki,plain,casual,true_to_size,29.9
+B10,Pleated Midi Skirt,women,bottom,Skirt,beige,plain,soft|old money,true_to_size,49.9
+B11,Floral Skirt,women,bottom,Skirt,pink,floral,soft|alternative,true_to_size,39.9
+B12,Wide Leg Pants,women,bottom,Trousers,cream,plain,soft|old money,true_to_size,49.9
+B13,Denim Mini Skirt,women,bottom,Skirt,blue,plain,streetwear|alternative|casual,runs_small,39.9
+D01,Linen Shirt Dress,women,full,Dress,white,plain,soft|old money|casual,true_to_size,59.9
+D02,Floral Midi Dress,women,full,Dress,lavender,floral,soft|alternative,true_to_size,59.9
+O01,Tailored Blazer,men,outer,Blazer,navy,plain,old money,true_to_size,99.9
+O02,Denim Jacket,unisex,outer,Jacket,blue,plain,casual|streetwear|alternative,true_to_size,79.9
+O03,Puffer Jacket,unisex,outer,Jacket,black,plain,streetwear|casual,runs_large,99.9
+O04,Knit Cardigan,women,outer,Knitwear,cream,plain,soft|old money,true_to_size,49.9
+O05,Corduroy Jacket,unisex,outer,Jacket,brown,plain,alternative|old money,true_to_size,79.9
+S01,Leather Loafers,unisex,shoes,Loafers,brown,plain,old money,true_to_size,89.9
+S02,White Sneakers,unisex,shoes,Sneakers,white,plain,casual|streetwear|soft|old money,true_to_size,69.9
+S03,Chunky Sneakers,unisex,shoes,Sneakers,black,plain,streetwear,true_to_size,79.9
+S04,Ballet Flats,women,shoes,Flats,cream,plain,soft|old money,true_to_size,49.9
+S05,Leather Boots,unisex,shoes,Boots,black,plain,alternative|streetwear,true_to_size,99.9

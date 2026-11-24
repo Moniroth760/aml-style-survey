@@ -1,0 +1,63 @@
+# One message per item. Paste them into the ChatGPT chat AFTER the setup message.
+# Save each image as <item_id>.png (e.g. T01.png) in the images/ folder.
+
+T01: navy plain classic cotton polo, men's
+T02: white plain relaxed cotton tee, men's
+T03: light blue plain oxford button shirt, men's
+T04: black boxy graphic tee with an abstract printed graphic (shapes only, no words or letters), men's
+T05: cream plain fine gauge knit sweater, men's
+T06: grey checked (plaid) relaxed flannel shirt, men's
+T07: olive plain long sleeve cotton tee, men's
+T08: beige plain textured knit polo, men's
+T09: brown plain minimal crewneck sweater, men's
+T10: cream plain soft ribbed top, women's
+T11: white plain relaxed cotton blouse, women's
+T12: black plain cropped basic tee, women's
+T13: pink plain lightweight knit cardigan top, women's
+T14: grey oversized graphic tee with an abstract printed graphic (shapes only, no words or letters), women's
+T15: blue striped classic striped shirt, women's
+T16: black plain fitted long sleeve top, women's
+T17: white plain essential oversized tee, unisex
+T18: grey plain relaxed cotton hoodie, unisex
+T19: beige plain minimal crewneck tee, unisex
+T20: black plain heavyweight long sleeve tee, unisex
+B01: beige plain slim fit chinos, men's
+B02: blue plain relaxed straight jeans, men's
+B03: navy plain tailored cotton trousers, men's
+B04: khaki plain utility cargo pants, men's
+B05: blue plain classic denim shorts, men's
+B06: grey plain relaxed pleated trousers, men's
+B07: black plain washed black jeans, men's
+B08: light blue plain high waist straight jeans, women's
+B09: beige plain wide leg tailored trousers, women's
+B10: black plain classic a line skirt, women's
+B11: olive plain relaxed cargo pants, women's
+B12: cream plain soft pleated skirt, women's
+B13: black plain relaxed straight trousers, unisex
+B14: grey plain everyday cotton shorts, unisex
+D01: black plain minimal midi dress, women's
+D02: cream plain relaxed cotton dress, women's
+D03: pink floral-print floral summer dress, women's
+D04: navy plain structured shirt dress, women's
+O01: navy plain classic single breasted blazer, men's
+O02: blue plain relaxed denim jacket, men's
+O03: black plain lightweight bomber jacket, men's
+O04: brown plain textured knit cardigan, men's
+O05: beige plain tailored everyday blazer, women's
+O06: light blue plain cropped denim jacket, women's
+O07: black plain relaxed faux leather jacket, women's
+O08: lavender plain soft knit cardigan, women's
+O09: grey plain essential zip hoodie, unisex
+O10: olive plain relaxed utility jacket, unisex
+S01: a pair of brown plain classic penny loafers, men's
+S02: a pair of white plain minimal leather look sneakers, men's
+S03: a pair of grey plain chunky everyday sneakers, men's
+S04: a pair of black plain classic lace up boots, men's
+S05: a pair of beige plain minimal ballet flats, women's
+S06: a pair of black plain classic penny loafers, women's
+S07: a pair of white plain low profile sneakers, women's
+S08: a pair of black plain everyday ankle boots, women's
+S09: a pair of white plain classic canvas sneakers, unisex
+S10: a pair of black plain chunky platform sneakers, unisex
+S11: a pair of cream plain minimal everyday sneakers, unisex
+S12: a pair of navy plain retro lace up sneakers, unisex
